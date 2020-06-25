@@ -1,0 +1,12 @@
+Giulietta
+1234
+Alfa Romeo
+50.99
+Mustang
+6543
+Ford
+72.28
+458 Italia
+4444
+Ferrari
+87.54
